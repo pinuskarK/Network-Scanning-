@@ -2,7 +2,8 @@
 <img width="735" height="602" alt="Screenshot_2026-02-26_21_33_51" src="https://github.com/user-attachments/assets/03d1df14-734b-4748-922c-e3239a5da86b" />
 
 
-<img width="1920" height="974" alt="Screenshot_2026-06-13_00_56_09" src="https://github.com/user-attachments/assets/fadb27c6-3d5d-4950-80cb-6ae8ea9dba93" />
+<img width="1920" height="974" alt="Screenshot_2026-06-13_00_56_09" src="https://github.com/user-attachments/assets/bee429f4-f111-4958-853e-fd0b65adde6a" />
+
 
 <img width="776" height="577" alt="Screenshot_2026-06-13_01-00-56" src="https://github.com/user-attachments/assets/f0c5c0a1-90d7-4723-998c-24c89658592c" />
 
@@ -22,16 +23,20 @@
 ## 📸 Screenshots
 
 ### 🖥️ Terminal Scan — Live CVE Lookup
-![Terminal Scan](screenshots/02_terminal_scan.png)
+<img width="1920" height="974" alt="Screenshot_2026-06-13_00_56_09" src="https://github.com/user-attachments/assets/f7091895-8f03-4ebe-bf8c-ee3d1489917d" />
+
 
 ### 📊 HTML Vulnerability Report
-![HTML Report](screenshots/04_html_report.png)
+<img width="1476" height="564" alt="Screenshot_2026-06-13_01-01-33" src="https://github.com/user-attachments/assets/2789d889-84cb-43c3-bfcd-d9b5ab81165e" />
+
 
 ### 🖱️ GUI Mode
-![GUI Mode](screenshots/03_gui_mode.png)
+<img width="776" height="577" alt="Screenshot_2026-06-13_01-00-56" src="https://github.com/user-attachments/assets/f87a89a7-4c60-475c-b006-87fd2a134a7f" />
+
 
 ### ⏰ Scheduled Auto-Scan (Cron)
-![Cron Job](screenshots/05_cron_job.png)
+<img width="731" height="99" alt="Screenshot_2026-06-13_01-26-06" src="https://github.com/user-attachments/assets/43f9cfd6-2a41-480e-be1f-1e0002b54655" />
+
 
 ---
 
@@ -265,25 +270,9 @@ Always get written permission before scanning any network.
 
 ---
 
-## 👤 Author
 
-**Pinuskar Kamalanathan**
 
-- 🎓 BSc (Hons) Information Technology — Cybersecurity
-- 🏫 Sri Lanka Institute of Information Technology (SLIIT)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pinuskar-kamalanathan)
-- 📧 pinuskar@gmail.com
-- 🌍 Malabe, Colombo, Sri Lanka
 
----
-
-## 🔗 Related Projects
-
-- [Plate X — AI License Plate Detection](https://github.com/pinuskar) — Python, TensorFlow, YOLOv12
-- [RailLink — Train Booking System](https://github.com/pinuskar) — Java, Spring Boot, MySQL
-- [Socket Communication with Password Hashing](https://github.com/pinuskar) — Python, Socket Programming
-
----
 
 ## 📄 License
 
@@ -291,6 +280,3 @@ MIT License — feel free to use, modify, and distribute with attribution.
 
 ---
 
-<p align="center">
-  <strong>⭐ If this project helped you, please give it a star! ⭐</strong>
-</p>
