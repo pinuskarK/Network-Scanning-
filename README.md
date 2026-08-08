@@ -1,17 +1,4 @@
 # 🔍 Advanced Network Vulnerability Scanner
-<img width="735" height="602" alt="Screenshot_2026-02-26_21_33_51" src="https://github.com/user-attachments/assets/03d1df14-734b-4748-922c-e3239a5da86b" />
-
-
-<img width="1920" height="974" alt="Screenshot_2026-06-13_00_56_09" src="https://github.com/user-attachments/assets/bee429f4-f111-4958-853e-fd0b65adde6a" />
-
-
-<img width="776" height="577" alt="Screenshot_2026-06-13_01-00-56" src="https://github.com/user-attachments/assets/f0c5c0a1-90d7-4723-998c-24c89658592c" />
-
-<img width="1476" height="564" alt="Screenshot_2026-06-13_01-01-33" src="https://github.com/user-attachments/assets/37a5d1b2-0361-4d5d-858b-69be4e636de9" />
-
-<img width="731" height="99" alt="Screenshot_2026-06-13_01-26-06" src="https://github.com/user-attachments/assets/71fe04c0-b05a-4e0a-a624-303536fdc175" />
-
-<img width="675" height="132" alt="Screenshot_2026-06-13_01-26-26" src="https://github.com/user-attachments/assets/7ef9700b-1529-41cc-ad03-2c0ffb01da6b" />
 
 
 > A Python-based network vulnerability scanner that discovers live hosts, detects exact service versions, and performs **real-time CVE lookups** using the US Government National Vulnerability Database (NVD) API with version-exact CPE matching.
@@ -23,19 +10,22 @@
 ## 📸 Screenshots
 
 ### 🖥️ Terminal Scan — Live CVE Lookup
-<img width="1920" height="974" alt="Screenshot_2026-06-13_00_56_09" src="https://github.com/user-attachments/assets/f7091895-8f03-4ebe-bf8c-ee3d1489917d" />
+<img width="911" height="660" alt="Capture" src="https://github.com/user-attachments/assets/be0c89e2-e517-4cd7-a012-4317613025c2" />
+
 
 
 ### 📊 HTML Vulnerability Report
-<img width="1476" height="564" alt="Screenshot_2026-06-13_01-01-33" src="https://github.com/user-attachments/assets/2789d889-84cb-43c3-bfcd-d9b5ab81165e" />
+<img width="1889" height="570" alt="Capture5" src="https://github.com/user-attachments/assets/d6d0b1b9-89de-4305-85c5-25cdf6d47b01" />
+
 
 
 ### 🖱️ GUI Mode
-<img width="776" height="577" alt="Screenshot_2026-06-13_01-00-56" src="https://github.com/user-attachments/assets/f87a89a7-4c60-475c-b006-87fd2a134a7f" />
+<img width="801" height="642" alt="Capture6" src="https://github.com/user-attachments/assets/b59e1ffb-f9d6-4962-a1cf-a59efdbf9667" />
+
 
 
 ### ⏰ Scheduled Auto-Scan (Cron)
-<img width="731" height="99" alt="Screenshot_2026-06-13_01-26-06" src="https://github.com/user-attachments/assets/43f9cfd6-2a41-480e-be1f-1e0002b54655" />
+<img width="1201" height="158" alt="Capture3" src="https://github.com/user-attachments/assets/5f774bd8-eaec-43cb-a783-beabb03060c3" />
 
 
 ---
